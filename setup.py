@@ -58,6 +58,7 @@ packages = [
     "disnake.ext.commands",
     "disnake.ext.tasks",
     "disnake.ext.mypy_plugin",
+    "disnake.ext.scheduled_events"
 ]
 
 setup(
